@@ -1,0 +1,8 @@
+{
+  "name": "BearAI - Intelligent Code Bridge",
+  "description": "A high-performance AI-integrated code workspace with real-time bridge capabilities, image/video generation, and live voice assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
